@@ -1,0 +1,25 @@
+{
+    "title": "sample_news_1",
+    "author_id": "abhinav_ohri",
+    "research_id": "surviving_companions",
+    "article_id": "sample_news_1",
+    "display": true,
+    "date": "12-25-2024",
+    "category": "News",
+    "tags": [],
+    "platforms": [
+        "kg"
+    ],
+    "short_description": "",
+    "cover_image_height": "330px",
+    "cover_image_width": "520px",
+    "cover_image": "media/images/p_1.jpg",
+    "content": {
+        "1_para": "",
+        "2_img": "",
+        "3_para": ""
+    },
+    "people_involved_ids": ["josh_shields"],
+    "links": {},
+    "twitter": ""
+}

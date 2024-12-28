@@ -78,6 +78,9 @@
         "author_id": {
             "type": "string"
         },
+        "research_id": {
+            "type": "string"
+        },
         "article_id": {
             "type": "string"
         },
